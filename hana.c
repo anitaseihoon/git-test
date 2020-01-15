@@ -34,5 +34,6 @@ int main()
         b=cap(count);
         printf("%d",b);    
         }    
+        printf("hi");
     }    
 }
